@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ECommerceAmazon
+Bundle-SymbolicName: ECommerceAmazon
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.amazon.runner,
+ com.amazon.stepdefinitions,
+ com.amazon.uiframework,
+ com.ui.amazon.pageobjects
