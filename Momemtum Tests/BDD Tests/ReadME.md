@@ -14,7 +14,7 @@ ReportingClass – reporting class get logs for every test step execution, since
 
 How to execute ?
 
-1. Check the code from BitBucket,
+1. Check the code from GitHub
 2. TO understand the framework, have a glance on the ReadME.md file content.
 3. Import the code in to Eclipse or IntelliJ IDE
 4. Open the Project explorer, you can check the Feature file for the scenarios covered.
