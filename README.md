@@ -1,5 +1,5 @@
-# momentum_tests
-This is to save momentum test / assignments
+# momenton_tests
+This is to save momenton test / assignments
 
 
 Kindly clone the repo to download API and Load tests, and UI Tests (BDD Tests) to your local repo.
